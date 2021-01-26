@@ -60,7 +60,7 @@ body {
   --nav-text-color: rgba(255, 255, 255, 0.75);
 
   --logo-color: #fff;
-  --logo-color-inverted: #1d3557;
+  --logo-color-inverted: var(--background-color);
 
   --text-highlight-background-color: hsla(210, 80%, 75%, 0.1);
   --text-highlight-border-color: hsla(210, 80%, 75%, 0.25);
