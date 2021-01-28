@@ -5,6 +5,9 @@
   --leading: 1rem;
   --background-color-main-dark: hsl(207, 23%, 17%);
   --backdrop-color-hue: 0;
+
+  --nav-logo-color: #fff;
+  --nav-logo-color-inverted: hsl(210, 18%, 15%);
 }
 
 .light,
