@@ -22,8 +22,8 @@ body {
   --logo-color: #1d3557;
   --logo-color-inverted: #fff;
 
-  --text-highlight-background-color: hsla(210, 80%, 75%, 0.1);
-  --text-highlight-border-color: hsla(210, 80%, 75%, 0.25);
+  --text-highlight-background-color: hsla(210, 80%, 75%, 0.15);
+  --text-highlight-border-color: hsla(210, 80%, 75%, 0.9);
 
   --search-highlight-background-color: hsla(54, 100%, 50%, 1);
   --search-highlight-border-color: hsla(54, 100%, 46%, 1);
@@ -71,8 +71,8 @@ body {
   --logo-color: #fff;
   --logo-color-inverted: var(--background-color);
 
-  --text-highlight-background-color: hsla(210, 80%, 75%, 0.1);
-  --text-highlight-border-color: hsla(210, 80%, 75%, 0.25);
+  --text-highlight-background-color: hsla(210, 80%, 75%, 0.15);
+  --text-highlight-border-color: hsla(210, 80%, 75%, 0.75);
 
   --search-highlight-background-color: hsla(40, 100%, 60%, 0.4);
   --search-highlight-border-color: hsl(40, 100%, 50%);
