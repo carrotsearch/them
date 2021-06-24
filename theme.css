@@ -63,6 +63,7 @@ body {
   --active-button-background-color-hover: hsla(203, 95%, 80%, 0.08);
   --active-button-border-color: hsla(203, 82%, 50%, 0.35);
   --active-button-border-color-hover: hsla(203, 82%, 50%, 0.15);
+  --outline-color: rgba(19, 124, 189, 0.6);
 }
 
 .dark {
@@ -117,6 +118,7 @@ body {
   --active-button-background-color-hover: hsla(203, 70%, 60%, 0.05);
   --active-button-border-color: hsla(203, 50%, 50%, 0.3);
   --active-button-border-color-hover: hsla(203, 50%, 50%, 0.15);
+  --outline-color: rgba(255, 255, 255, 0.6);
 }
 
 .dark {
