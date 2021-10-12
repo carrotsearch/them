@@ -43,7 +43,7 @@ body {
   --border-color: rgba(0, 0, 0, 0.12);
   --hr-color: hsla(0, 0%, 0%, 0.15);
 
-  --item-icon-color: hsl(45, 100%, 50%);
+  --item-icon-color: hsl(45, 90%, 47%);
   --label-icon-color: var(--item-icon-color);
 
   --kbd-outer-border-color: #ccc;
