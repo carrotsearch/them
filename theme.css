@@ -22,8 +22,8 @@ body {
   --logo-color: #1d3557;
   --logo-color-inverted: #fff;
 
-  --text-highlight-background-color: hsla(210, 80%, 75%, 0.15);
-  --text-highlight-border-color: hsla(210, 80%, 75%, 0.9);
+  --text-highlight-background-color: var(--blue-background-color);
+  --text-highlight-border-color: var(--blue-border-color);
 
   --search-highlight-background-color: hsla(54, 100%, 50%, 1);
   --search-highlight-border-color: hsla(54, 100%, 46%, 1);
@@ -39,6 +39,37 @@ body {
 
   --link-color: hsl(203, 82%, 35%);
   --link-icon-color: hsl(203, 82%, 70%);
+
+  --red-text-color: hsla(0, 70%, 45%, 1);
+  --red-border-color: hsla(0, 80%, 72%, 0.7);
+  --red-background-color: hsla(0, 80%, 72%, 0.15);
+  --orange-text-color: hsla(30, 80%, 55%, 1);
+  --orange-border-color: hsla(30, 80%, 72%, 0.7);
+  --orange-background-color: hsla(30, 80%, 72%, 0.15);
+  --yellow-text-color: hsla(54, 100%, 45%, 1);
+  --yellow-border-color: hsla(54, 100%, 50%, 0.9);
+  --yellow-background-color: hsla(54, 100%, 50%, 0.15);
+  --green-text-color: hsla(80, 80%, 50%, 1);
+  --green-border-color: hsla(80, 80%, 72%, 0.7);
+  --green-background-color: hsla(80, 80%, 72%, 0.15);
+  --mint-text-color: hsla(140, 80%, 50%, 1);
+  --mint-border-color: hsla(140, 80%, 72%, 0.7);
+  --mint-background-color: hsla(140, 80%, 72%, 0.15);
+  --cyan-text-color: hsla(180, 80%, 50%, 1.0);
+  --cyan-border-color: hsla(180, 80%, 75%, 0.9);
+  --cyan-background-color: hsla(180, 80%, 75%, 0.15);
+  --blue-text-color: hsla(210, 80%, 55%, 1.0);
+  --blue-border-color: hsla(210, 80%, 75%, 0.9);
+  --blue-background-color: hsla(210, 80%, 75%, 0.15);
+  --navy-text-color: hsla(245, 80%, 60%, 1.0);
+  --navy-border-color: hsla(245, 80%, 75%, 0.9);
+  --navy-background-color: hsla(245, 80%, 75%, 0.15);
+  --violet-text-color: hsla(280, 80%, 60%, 1.0);
+  --violet-border-color: hsla(280, 64%, 72%, 0.9);
+  --violet-background-color: hsla(280, 64%, 72%, 0.15);
+  --pink-text-color: hsla(320, 80%, 55%, 1.0);
+  --pink-border-color: hsla(320, 64%, 72%, 0.9);
+  --pink-background-color: hsla(320, 64%, 72%, 0.15);
 
   --border-color: rgba(0, 0, 0, 0.12);
   --hr-color: hsla(0, 0%, 0%, 0.15);
