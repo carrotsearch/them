@@ -49,6 +49,9 @@ body {
   --yellow-text-color: hsla(54, 100%, 45%, 1);
   --yellow-border-color: hsla(54, 100%, 50%, 0.9);
   --yellow-background-color: hsla(54, 100%, 50%, 0.15);
+  --yellow-dim-text-color: hsla(54, 100%, 45%, 0.6);
+  --yellow-dim-border-color: hsla(54, 100%, 50%, 0.35);
+  --yellow-dim-background-color: hsla(54, 100%, 50%, 0.07);
   --green-text-color: hsla(80, 80%, 50%, 1);
   --green-border-color: hsla(80, 80%, 72%, 0.7);
   --green-background-color: hsla(80, 80%, 72%, 0.15);
