@@ -128,7 +128,7 @@ body {
   --text-color-inverted: black;
   --text-color-light: rgba(255, 255, 255, 0.75);
   --text-color-lighter: rgba(255, 255, 255, 0.55);
-  --text-color-lightest: rgba(255, 255, 255, 0.3);
+  --text-color-lightest: rgba(255, 255, 255, 0.4);
   --text-color-secondary: hsla(208, 30%, 70%, 1);
   --text-color-red: hsla(0, 50%, 50%, 1);
   --text-color-green: hsla(120, 80%, 40%, 1);
