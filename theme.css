@@ -47,9 +47,9 @@ body {
   --orange-text-color: hsla(30, 100%, 40%, 1);
   --orange-border-color: hsla(30, 80%, 72%, 0.7);
   --orange-background-color: hsla(30, 80%, 72%, 0.08);
-  --amber-text-color: hsla(45, 90%, 45%, 1);
+  --amber-text-color: hsla(45, 100%, 33%, 1);
   --amber-border-color: hsla(45, 90%, 50%, 0.6);
-  --amber-background-color: hsla(45, 90%, 72%, 0.08);
+  --amber-background-color: hsla(45, 90%, 78%, 0.08);
   --yellow-text-color: hsla(54, 100%, 35%, 1);
   --yellow-border-color: hsla(54, 100%, 50%, 0.9);
   --yellow-background-color: hsla(54, 100%, 50%, 0.08);
@@ -142,7 +142,7 @@ body {
   --orange-text-color: hsla(30, 60%, 50%, 1);
   --orange-border-color: hsla(30, 90%, 72%, 0.5);
   --orange-background-color: hsla(30, 90%, 72%, 0.08);
-  --amber-text-color: hsla(45, 90%, 45%, 1);
+  --amber-text-color: hsla(45, 90%, 43%, 1);
   --amber-border-color: hsla(45, 90%, 50%, 0.6);
   --amber-background-color: hsla(45, 90%, 72%, 0.08);
   --yellow-text-color: hsla(54, 100%, 45%, 1);
